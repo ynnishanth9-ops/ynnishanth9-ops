@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Nishanth 👋
 
-<!--
-**ynnishanth9-ops/ynnishanth9-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master of Analytics student in Australia with experience in automation, analytics, workflow integration, and data-driven solutions.
 
-Here are some ideas to get you started:
+I am currently building a professional GitHub portfolio focused on AI automation, LangChain, LangGraph, Python, APIs, and data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- AI automation projects
+- LangChain and LangGraph workflows
+- Python automation tools
+- Retrieval-Augmented Generation
+- API integrations
+- Data analytics and machine learning
+
+## Featured Projects
+
+### AI Streaming Platform Analysis
+Exploratory data analysis and machine learning project analyzing streaming platform data using Python, pandas, Matplotlib, and scikit-learn.
+
+### AI Project Factory — In Progress
+Automation system that generates AI automation project repositories using Python, LangChain templates, and GitHub Actions.
+
+## Tech Stack
+
+Python · SQL · Pandas · NumPy · scikit-learn · LangChain · LangGraph · APIs · GitHub Actions · Power BI · React · Firebase
+
+## Goal
+
+Building recruiter-ready projects that show practical AI automation, analytics, and workflow automation skills.

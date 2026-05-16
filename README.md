@@ -24,12 +24,8 @@ Practice scripts covering LangChain chat models, prompt templates, chains, outpu
 Tech stack: Python, LangChain, LangGraph, OpenAI API
 
 ### AI Project Factory — In Progress
-Automation system that generates AI automation project repositories using Python, LangChain templates, and GitHub Actions.
+Automation system designed to generate AI automation project repositories using Python, LangChain templates, and GitHub Actions.
 
-## Tech Stack
+Tech stack: Python, GitHub Actions, JSON, Automation
 
-Python · SQL · Pandas · NumPy · scikit-learn · LangChain · LangGraph · APIs · GitHub Actions · Power BI · React · Firebase
-
-## Goal
-
-Building recruiter-ready projects that show practical AI automation, analytics, and workflow automation skills.
+Repository: https://github.com/ynnishanth9-ops/ai-project-factory

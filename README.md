@@ -15,17 +15,23 @@ I am currently building a professional GitHub portfolio focused on AI automation
 
 ## Featured Projects
 
-### AI Streaming Platform Analysis
-Exploratory data analysis and machine learning project analyzing streaming platform data using Python, pandas, Matplotlib, and scikit-learn.
-
 ### LangChain Learning Projects
 Practice scripts covering LangChain chat models, prompt templates, chains, output parsers, and LangGraph workflows.
 
 Tech stack: Python, LangChain, LangGraph, OpenAI API
 
-### AI Project Factory — In Progress
+Repository: https://github.com/ynnishanth9-ops/langchain-learning-projects
+
+### AI Project Factory
 Automation system designed to generate AI automation project repositories using Python, LangChain templates, and GitHub Actions.
 
 Tech stack: Python, GitHub Actions, JSON, Automation
 
 Repository: https://github.com/ynnishanth9-ops/ai-project-factory
+
+### AI Streaming Platform Analysis
+Exploratory data analysis and machine learning project analyzing streaming platform data using Python, pandas, Matplotlib, and scikit-learn.
+
+Tech stack: Python, pandas, NumPy, Matplotlib, scikit-learn
+
+Repository: https://github.com/ynnishanth9-ops/AI-Driven-Streaming-platform-analysis

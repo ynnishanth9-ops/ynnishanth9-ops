@@ -18,20 +18,35 @@ I am currently building a professional GitHub portfolio focused on AI automation
 ### LangChain Learning Projects
 Practice scripts covering LangChain chat models, prompt templates, chains, output parsers, and LangGraph workflows.
 
-Tech stack: Python, LangChain, LangGraph, OpenAI API
-
-Repository: https://github.com/ynnishanth9-ops/langchain-learning-projects
+**Tech Stack:** Python, LangChain, LangGraph, OpenAI API  
+**Repository:** https://github.com/ynnishanth9-ops/langchain-learning-projects
 
 ### AI Project Factory
-Automation system designed to generate AI automation project repositories using Python, LangChain templates, and GitHub Actions.
+Automation system that generates AI automation project repositories from structured project ideas. It creates project folders, README files, starter Python apps, GitHub repositories, and pushes generated files automatically.
 
-Tech stack: Python, GitHub Actions, JSON, Automation
+**Tech Stack:** Python, GitHub API, GitHub Actions, JSON, Automation  
+**Repository:** https://github.com/ynnishanth9-ops/ai-project-factory
 
-Repository: https://github.com/ynnishanth9-ops/ai-project-factory
+### AI Research Assistant RAG
+Retrieval-Augmented Generation starter project using LangChain, FAISS vector search, document loading, and OpenAI-powered answer generation.
+
+**Tech Stack:** Python, LangChain, FAISS, OpenAI API  
+**Repository:** https://github.com/ynnishanth9-ops/ai-research-assistant-rag
+
+### AI Email Task Agent
+Workflow-style email automation agent that classifies emails, detects priority, extracts tasks, and suggests follow-up actions.
+
+**Tech Stack:** Python, LangGraph-style workflow, LangChain-ready structure  
+**Repository:** https://github.com/ynnishanth9-ops/ai-email-task-agent
+
+### AI Resume Optimizer Agent
+Starter automation project that compares resume text against job descriptions and identifies matched keywords, missing skills, and improvement suggestions.
+
+**Tech Stack:** Python, Automation, Resume Analysis  
+**Repository:** https://github.com/ynnishanth9-ops/ai-resume-optimizer-agent
 
 ### AI Streaming Platform Analysis
 Exploratory data analysis and machine learning project analyzing streaming platform data using Python, pandas, Matplotlib, and scikit-learn.
 
-Tech stack: Python, pandas, NumPy, Matplotlib, scikit-learn
-
-Repository: https://github.com/ynnishanth9-ops/AI-Driven-Streaming-platform-analysis
+**Tech Stack:** Python, pandas, NumPy, Matplotlib, scikit-learn  
+**Repository:** https://github.com/ynnishanth9-ops/AI-Driven-Streaming-platform-analysis

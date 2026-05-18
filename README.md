@@ -42,6 +42,12 @@ Workflow-style email automation agent that classifies emails, detects priority, 
 ### AI Resume Optimizer Agent
 Starter automation project that compares resume text against job descriptions and identifies matched keywords, missing skills, and improvement suggestions.
 
+### Automated Chatbot System
+Starter chatbot workflow that detects user intent and generates simple responses.
+
+### Natural Language Processing Application
+Starter NLP application that analyzes text, detects sentiment, and extracts simple entities.
+
 **Tech Stack:** Python, Automation, Resume Analysis  
 **Repository:** https://github.com/ynnishanth9-ops/ai-resume-optimizer-agent
 
